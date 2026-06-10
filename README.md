@@ -1,5 +1,9 @@
 # Rocket Station — Homepage
 
+**Live (GitHub Pages):** https://mw3692-dev.github.io/rocket-station-site/  
+**Repo:** https://github.com/mw3692-dev/rocket-station-site
+
+
 A responsive marketing website rebuilt from the **"Rocket Station (External).fig"** Figma
 file (page: *Homepage v1*, prototype frame *D - HP - Prototype*).
 
