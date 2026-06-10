@@ -118,12 +118,9 @@ h1, h2, h3, h4, p, blockquote, figure, ol { margin: 0; }
 .nav__logo {
   display: inline-flex; align-items: center; gap: 10px;
   font-weight: 700; font-size: 1.05rem; letter-spacing: -0.02em;
+  color: var(--white);
 }
-.nav__mark {
-  width: 16px; height: 16px; border-radius: 50%;
-  background: radial-gradient(circle at 35% 30%, var(--white), #888 70%, #333);
-  box-shadow: 0 0 0 4px rgba(255,255,255,0.06);
-}
+.nav__logo-img { height: 22px; width: auto; display: block; }
 .nav__links { display: flex; gap: 30px; }
 .nav__links a {
   font-size: 0.92rem; color: var(--gray-300); font-weight: 500;
